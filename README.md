@@ -6,7 +6,7 @@ apiKey: Microsoft Translate Api Key
 
 language: select language to translate to in the following format ("en" for English, "it" for Italian, etc..). It accepts comma separated values to translate to more than one language (i.e: en,it)
 
-path_to_json_file: path to file with text to translate (there is one template in the project), it must have the provided json values in order to work.
+path_to_json_file: path to file with text to translate (there is one template in the project), it must have the provided json format in order to work.
 
 *sample command line execution: 
 
