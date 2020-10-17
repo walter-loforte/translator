@@ -10,7 +10,7 @@ path_to_json_file: path to file with text to translate (there is one template in
 
 *sample command line execution: 
 
-* java -jar translate-0.0.1-SNAPSHOT.jar 123456fse1354 en path_to_json_file E:\\body.json
+* java -jar translate-0.0.1-SNAPSHOT.jar 123456fse1354 en E:\\body.json
 
 
 *It stores a Json file with the result in the user folder
